@@ -1,3 +1,9 @@
 body {
     font-family: 'Trebuchet MS', 'Tahoma', sans-serif;
+    background-color: antiquewhite;
+}
+
+h1,
+.cite {
+    text-align: center;
 }
