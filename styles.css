@@ -3,6 +3,13 @@ body {
     background-color: antiquewhite;
 }
 
+img {
+    height: auto;
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+
 h1,
 .cite {
     text-align: center;
