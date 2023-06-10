@@ -28,6 +28,7 @@ li {
 .recipe_list li {
     list-style-type: none;
     display: inline-block;
+    background-color: #fdf5eb;
     padding: 30px;
     border: 5px solid #800000;
     margin-top: 5px;
