@@ -20,3 +20,11 @@ p,
 li {
     font-size: 18px;
 }
+
+.recipe_list {
+    padding: 0;
+}
+
+.recipe_list li {
+    list-style-type: none;
+}
